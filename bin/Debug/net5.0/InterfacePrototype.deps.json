@@ -1,0 +1,107 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InterfacePrototype/1.0.0": {
+        "dependencies": {
+          "System.Drawing.Common": "4.6.0-preview7.19362.9",
+          "SpaceVIL": "0.3.6.0"
+        },
+        "runtime": {
+          "InterfacePrototype.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.0.0-preview7.19362.9": {},
+      "Microsoft.Win32.SystemEvents/4.6.0-preview7.19362.9": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.0.0-preview7.19362.9"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.700.19.36209"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.700.19.36209"
+          }
+        }
+      },
+      "System.Drawing.Common/4.6.0-preview7.19362.9": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.0.0-preview7.19362.9",
+          "Microsoft.Win32.SystemEvents": "4.6.0-preview7.19362.9"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.700.19.36209"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.700.19.36209"
+          },
+          "runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.1.0",
+            "fileVersion": "4.700.19.36209"
+          }
+        }
+      },
+      "SpaceVIL/0.3.6.0": {
+        "runtime": {
+          "SpaceVIL.dll": {
+            "assemblyVersion": "0.3.6.0",
+            "fileVersion": "0.3.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfacePrototype/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/3.0.0-preview7.19362.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gc5/X1m73JO8ETxOHC3IbgM7JRa7LPsSY+/lVs88YGwKn0QYuU568EmpC8yPk9UKaAOq+82PWG61vFcXdNfsvQ==",
+      "path": "microsoft.netcore.platforms/3.0.0-preview7.19362.9",
+      "hashPath": "microsoft.netcore.platforms.3.0.0-preview7.19362.9.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/4.6.0-preview7.19362.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-syDZcrWKKZui8B40rqo39nzTyTiBFQa0kxkCa2/rhGrAbf+peWKFX3Ao/niqj0WSc7NXnzWDAxMlXi2oXKSHcg==",
+      "path": "microsoft.win32.systemevents/4.6.0-preview7.19362.9",
+      "hashPath": "microsoft.win32.systemevents.4.6.0-preview7.19362.9.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.6.0-preview7.19362.9": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UD4ofG5DXka1I5W9JrpiJ0vQ7KF0qxPURsxhtKrxW63oM89bJiqL9pu9ZrNiAV6wMAoakCplRybscQyS2vSiHA==",
+      "path": "system.drawing.common/4.6.0-preview7.19362.9",
+      "hashPath": "system.drawing.common.4.6.0-preview7.19362.9.nupkg.sha512"
+    },
+    "SpaceVIL/0.3.6.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

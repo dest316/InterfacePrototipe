@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4ssWTk9n98i/YbQd+EDtO+f9zuU5k+tbGvE/jtTVrxzoYFmpsJ2Jbs23jwqx7Fgt6XJwPLMsOR/5/9+CxacVkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\InterfacePrototipe\\InterfacePrototype.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Алина Протопопова\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0-preview7.19362.9\\microsoft.netcore.platforms.3.0.0-preview7.19362.9.nupkg.sha512",
+    "C:\\Users\\Алина Протопопова\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0-preview7.19362.9\\microsoft.win32.systemevents.4.6.0-preview7.19362.9.nupkg.sha512",
+    "C:\\Users\\Алина Протопопова\\.nuget\\packages\\system.drawing.common\\4.6.0-preview7.19362.9\\system.drawing.common.4.6.0-preview7.19362.9.nupkg.sha512",
+    "C:\\Users\\Алина Протопопова\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Алина Протопопова\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Алина Протопопова\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
